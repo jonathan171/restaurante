@@ -1,0 +1,315 @@
+.shearchDir{
+height: 50%
+
+}
+.inputDir{
+
+  width: 5%;
+  height: 20px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+  -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+       -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+          transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+}
+.inputDir:focus {
+  border-color: #66afe9;
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, .6);
+          box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, .6);
+}
+.capaTransparente {
+      top:50px;
+      left:50px;
+      width:100%;
+      height:450px;
+   background: rgba(0, 0, 0, 0.45);
+      color:white;
+      font-size:20px;
+      z-index:1;
+      border-radius: 21px 21px 21px 21px;
+-moz-border-radius: 21px 21px 21px 21px;
+-webkit-border-radius: 21px 21px 21px 21px;
+border: 0px solid #f70a0a;
+    /* Firefox */
+  }
+
+a{
+
+color: white;
+
+}
+.capaTransparente2 {
+   float: left;
+      top:50px;
+      left:50px;
+      width:40%;
+      height:400px;
+   background: rgba(0, 0, 0, 0);
+      color:white;
+      font-size:15px;
+      z-index:1;
+     border-radius: 21px 21px 21px 21px;
+-moz-border-radius: 21px 21px 21px 21px;
+-webkit-border-radius: 21px 21px 21px 21px;
+border: 0px solid #f70a0a;
+     }
+
+
+.div-Rigth {
+   float: right;
+      top:50px;
+      left:50px;
+      width:50%;
+      height:85%;
+   background: rgba(255, 153, 0, 1);
+      color:white;
+      font-size:15px;
+      z-index:1;
+border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+border: 0px solid #edcb07;
+   margin-top: 20px;
+   margin-right: 40px;
+     
+     }
+table {
+   width: 60%;
+   text-align: left;
+margin: 5px 5px 5px 20%;
+  
+}
+th, td {
+
+  height: 30px;
+   text-align: left;
+   vertical-align: top;
+  
+}
+.fondo{
+
+	background: url('../images/steak.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.border {
+      width:100%;
+      height:125px;
+   background: rgba(0, 0, 0, 0.45);
+      color:white;
+      font-size:20px;
+      z-index:1;
+      border-radius: 21px 21px 21px 21px;
+-moz-border-radius: 21px 21px 21px 21px;
+-webkit-border-radius: 21px 21px 21px 21px;
+border: 0px solid #f70a0a;
+    /* Firefox */
+  }
+.img-carrusel{
+
+  margin: 5px 0px 20px 0px;
+
+}
+
+.contenedor_imagen_texto{
+width:125px;
+height:100%;
+position:relative;
+display:inline-block;
+vertical-align:top;
+overflow:hidden;
+float: left;
+
+}
+ #imagen, .texto{
+ max-width:98%;
+height: 150px;
+text-align: center;
+border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+  margin: 5px 5px 5px 5px;
+}
+#imagen img{
+max-width: 100%;
+height: auto;
+
+}
+.texto{
+height:auto;
+text-align:center
+}
+hr{
+    border:         none;
+    border-left:    1px dashed  #5bc0de;
+    height:         115px;
+    width:          1px;  
+    float: left;     
+margin: 5px 5px 5px 5px;
+
+}
+.border2 {
+      width:100%;
+      height:180px;
+   background: rgba(0, 0, 0, 0.45);
+      color:white;
+      font-size:20px;
+      z-index:1;
+      border-radius: 21px 21px 21px 21px;
+-moz-border-radius: 21px 21px 21px 21px;
+-webkit-border-radius: 21px 21px 21px 21px;
+border: 0px solid #f70a0a;
+
+    /* Firefox */
+  }
+  #imagen2, .texto2{
+ max-width:100%;
+height: 170px;
+text-align: center;
+border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px;
+}
+#imagen2 img{
+max-width: 100%;
+height: auto;
+margin: 5px 5px 5px 5px;
+
+}
+
+ #descuento {
+ max-width:100%;
+height: 75px;
+text-align: center;
+border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+  margin: 5px 5px 5px 5px;
+}
+#descuento img{
+max-width: 100%;
+height: auto;
+
+
+}
+.contenedor_imagen_Descuento{
+width:75px;
+height:100%;
+position:relative;
+display:inline-block;
+vertical-align:top;
+overflow:hidden;
+float: left;
+
+}
+.contenedor_imagen_texto2{
+width:150px;
+height:100%;
+position:relative;
+display:inline-block;
+vertical-align:top;
+overflow:hidden;
+float: left;
+
+}
+.Tabulacion {
+  
+   width:50%;
+height:100%;
+position:relative;
+display:inline-block;
+vertical-align:top;
+overflow:hidden;
+float: left;
+background: rgba(0, 0, 0, 0.45);
+     border-radius: 21px 21px 21px 21px;
+-moz-border-radius: 21px 21px 21px 21px;
+-webkit-border-radius: 21px 21px 21px 21px;
+border: 0px solid #f70a0a;
+     }
+.interno{
+     text-align: left;
+        top:50px;
+      left:50px;
+      width:100%;
+      height:200px;
+   background: rgba(0, 0, 0, 0.45);
+      color:white;
+      font-size:20px;
+      z-index:1;
+      border-radius: 21px 21px 21px 21px;
+-moz-border-radius: 21px 21px 21px 21px;
+-webkit-border-radius: 21px 21px 21px 21px;
+border: 0px solid #f70a0a;
+    /* Firefox */
+  }
+.encabezado{
+
+text-align: left;
+        top:50px;
+      left:50px;
+      width:100%;
+      height:50px;
+   background: rgba(255, 153, 0, 1);
+      color:white;
+      font-size:20px;
+      z-index:1;
+      border-radius: 21px 21px 21px 21px;
+-moz-border-radius: 21px 21px 21px 21px;
+-webkit-border-radius: 21px 21px 21px 21px;
+border: 0px solid #f70a0a;
+
+}
+.tableRestaurante {
+   width: 100%;
+   text-align: left;
+margin: 5px 5px 5px 20%;
+text-align: left;
+  
+}
+.tableRestaurante td, th{
+
+  height: 30px;
+   text-align: left;
+   vertical-align: top;
+  
+}
+.ec-stars-wrapper {
+  /* Espacio entre los inline-block (los hijos, los `a`) 
+     http://ksesocss.blogspot.com/2012/03/display-inline-block-y-sus-empeno-en.html */
+  font-size: 0;
+  /* Podríamos quitarlo, 
+    pero de esta manera (siempre que no le demos padding), 
+    sólo aplicará la regla .ec-stars-wrapper:hover a cuando
+    también se esté haciendo hover a alguna estrella */
+  display: inline-block;
+}
+.ec-stars-wrapper a {
+  text-decoration: none;
+  display: inline-block;
+  /* Volver a dar tamaño al texto */
+  font-size: 32px;
+  font-size: 2rem;
+  
+  color: #888;
+}
+
+.ec-stars-wrapper:hover a {
+ color: rgb(255, 225, 0);
+}
+/*
+ * El selector de hijo, es necesario para aumentar la especifidad
+ */
+.ec-stars-wrapper > a:hover ~ a {
+  color: #888;
+}
